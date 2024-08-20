@@ -4,6 +4,9 @@
 <p>O projeto inicial seria uma landing page de uma agência, que eu acabei personalizando para ser uma landing page para uma academia de musculação.</p>
 <p>Esta landing page conta com algumas seções, que seriam as seções, Sobre, Serviços, Projetos e Contatos. Cada uma com a intenção de mostrar um pouco sobre como a academia funciona.</p>
 
+![Screenshot_22](https://github.com/user-attachments/assets/02df8df5-050f-4122-99bf-5a932d5b3665)
+
+
 <p>Utilizando das tecnologias HTML e CSS.</p>
 <div style="display: inline_block">
   
